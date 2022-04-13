@@ -1,0 +1,3 @@
+Çalıştırmak için öncelikle antivirüs programınızın kapalı olması gerekiyor.
+Tüm hileler bilgisayarda virüs olarak algılanır bu çok normaldir.
+Gerçi hile kullanan kullanıcılar bu durum hakkında bilgi sahibidir. Olmayanlar için dosya içerisinde defender control programını çalıştırıp Defender Korumasını devre dışı bırakın.
